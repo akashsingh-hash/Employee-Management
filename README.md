@@ -1,5 +1,5 @@
 🧑‍💼 Employee Management System
-<p align="center"> <img src="https://user-images.githubusercontent.com/placeholder/ems-banner.png" alt="Employee Management System Banner" width="800"/> </p>
+<p align="center"> <img src="C:\6th sem\Full Stack\PROJECT\Employee Management\screenshots" alt="Employee Management System Banner" width="800"/> </p>
 
 A production-ready Employee Management System built with
 Spring Boot (Backend) and React + Tailwind CSS (Frontend).
@@ -38,7 +38,7 @@ Smooth UX for forms and tables
 
 🛠️ Tech Stack
 Backend
-<p align="left"> <img src="https://img.shields.io/badge/Java-17-orange?style=for-the-badge&logo=java" /> <img src="https://img.shields.io/badge/Spring%20Boot-3-brightgreen?style=for-the-badge&logo=springboot" /> <img src="https://img.shields.io/badge/JPA-Hibernate-blue?style=for-the-badge" /> <img src="https://img.shields.io/badge/MySQL-8.0-blue?style=for-the-badge&logo=mysql" /> </p>
+<p align="left"> <img src="https://img.shields.io/badge/Java-21-orange?style=for-the-badge&logo=java" /> <img src="https://img.shields.io/badge/Spring%20Boot-3-brightgreen?style=for-the-badge&logo=springboot" /> <img src="https://img.shields.io/badge/JPA-Hibernate-blue?style=for-the-badge" /> <img src="https://img.shields.io/badge/MySQL-8.0-blue?style=for-the-badge&logo=mysql" /> </p>
 Frontend
 <p align="left"> <img src="https://img.shields.io/badge/React-18-blue?style=for-the-badge&logo=react" /> <img src="https://img.shields.io/badge/Vite-fast-yellow?style=for-the-badge&logo=vite" /> <img src="https://img.shields.io/badge/Tailwind%20CSS-4-38bdf8?style=for-the-badge&logo=tailwindcss" /> <img src="https://img.shields.io/badge/Axios-HTTP-blueviolet?style=for-the-badge" /> </p>
 📋 Prerequisites
@@ -165,4 +165,5 @@ Resume-ready full-stack project
 🙌 Author
 
 Employee Management System
+
 
